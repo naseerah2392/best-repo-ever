@@ -1,0 +1,5 @@
+node {
+  stage("stage 1"){
+    echo 'Stage 1 with pipeline demo'
+  }
+}
